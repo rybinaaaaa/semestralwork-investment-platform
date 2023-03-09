@@ -1,0 +1,209 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport"
+			content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<link rel="stylesheet" href="../styles/style.css" />
+	<link rel="stylesheet" href="../styles/root.css" />
+	<title>Document</title>
+</head>
+<body dark-theme>
+<header class="header container">
+	<h2>
+		INVESTICO
+	</h2>
+	<div>
+		<input id="themeSwitcher" class="ThemeToggle" type="checkbox" checked/>
+		<a href="id.html">
+			<img src="../assets/icons/user.svg" alt="home">
+		</a>
+	</div>
+</header>
+<main class="invests container">
+	<div class="invests__filters">
+		<div class="primary_fieldset">
+			<label>
+				Search
+			</label>
+			<input type="text" />
+		</div>
+		<ul class="dropdown">
+			<li class="dropdown__container">
+				Location
+				<ul>
+					<li>
+						Kanada
+					</li>
+					<li>
+						Kanada
+					</li>
+					<li>
+						Kanada
+					</li>
+					<li>
+						Kanada
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+	<div class="invests__projects">
+		<div class="bg-pr-card">
+			<img class="bg-pr-card__avatar" alt="avatar" src="../assets/png/Avatar.png" />
+			<div class="bg-pr-card__text-content">
+				<div class="bg-pr-card__text-content__row">
+					<h4>
+						Author
+					</h4>
+					<p> Marketa Marketovna </p>
+				</div>
+				<div class="bg-pr-card__text-content__row">
+					<h4>
+						Theme
+					</h4>
+					<p> Project1 </p>
+				</div>
+				<div class="bg-pr-card__text-content__row description">
+					<h4>
+						Description:
+					</h4>
+					<p>
+						Lorem ipsum dolor sit ame t, consectetuer adipiscing elit. Integer vulputate sem a nibh rutrum
+						consequat. Fusce tellus. Integer vulputate sem a nibh rutrum consequat Lorem ipsum dolor sit ame
+						t, consectetuer adipiscing elit. Integer vulputate sem a nibh rutrum consequat. Fusce tellus.
+						Integer vulputate sem a nibh rutrum consequat
+						Lorem ipsum dolor sit ame t, consectetuer adipiscing elit. Integer vulputate sem a nibh rutrum
+						consequat. Fusce tellus. Integer vulputate sem a nibh rutrum consequat
+					</p>
+					<img class="arrow-down" src="../assets/icons/arrow-down.svg" />
+				</div>
+			</div>
+		</div>
+		<div class="bg-pr-card">
+			<img class="bg-pr-card__avatar" alt="avatar" src="../assets/png/Avatar.png" />
+			<div class="bg-pr-card__text-content">
+				<div class="bg-pr-card__text-content__row">
+					<h4>
+						Author
+					</h4>
+					<p> Marketa Marketovna </p>
+				</div>
+				<div class="bg-pr-card__text-content__row">
+					<h4>
+						Theme
+					</h4>
+					<p> Project1 </p>
+				</div>
+				<div class="bg-pr-card__text-content__row description">
+					<h4>
+						Description:
+					</h4>
+					<p>
+						Lorem ipsum dolor sit ame t, consectetuer adipiscing elit. Integer vulputate sem a nibh rutrum
+						consequat. Fusce tellus. Integer vulputate sem a nibh rutrum consequat Lorem ipsum dolor sit ame
+						t, consectetuer adipiscing elit. Integer vulputate sem a nibh rutrum consequat. Fusce tellus.
+						Integer vulputate sem a nibh rutrum consequat
+						Lorem ipsum dolor sit ame t, consectetuer adipiscing elit. Integer vulputate sem a nibh rutrum
+						consequat. Fusce tellus. Integer vulputate sem a nibh rutrum consequat
+					</p>
+					<img class="arrow-down" src="../assets/icons/arrow-down.svg" />
+				</div>
+			</div>
+		</div>
+		<div class="bg-pr-card">
+			<img class="bg-pr-card__avatar" alt="avatar" src="../assets/png/Avatar.png" />
+			<div class="bg-pr-card__text-content">
+				<div class="bg-pr-card__text-content__row">
+					<h4>
+						Author
+					</h4>
+					<p> Marketa Marketovna </p>
+				</div>
+				<div class="bg-pr-card__text-content__row">
+					<h4>
+						Theme
+					</h4>
+					<p> Project1 </p>
+				</div>
+				<div class="bg-pr-card__text-content__row description">
+					<h4>
+						Description:
+					</h4>
+					<p>
+						Lorem ipsum dolor sit ame t, consectetuer adipiscing elit. Integer vulputate sem a nibh rutrum
+						consequat. Fusce tellus. Integer vulputate sem a nibh rutrum consequat Lorem ipsum dolor sit ame
+						t, consectetuer adipiscing elit. Integer vulputate sem a nibh rutrum consequat. Fusce tellus.
+						Integer vulputate sem a nibh rutrum consequat
+						Lorem ipsum dolor sit ame t, consectetuer adipiscing elit. Integer vulputate sem a nibh rutrum
+						consequat. Fusce tellus. Integer vulputate sem a nibh rutrum consequat
+					</p>
+					<img class="arrow-down" src="../assets/icons/arrow-down.svg" />
+				</div>
+			</div>
+		</div>
+		<div class="bg-pr-card">
+			<img class="bg-pr-card__avatar" alt="avatar" src="../assets/png/Avatar.png" />
+			<div class="bg-pr-card__text-content">
+				<div class="bg-pr-card__text-content__row">
+					<h4>
+						Author
+					</h4>
+					<p> Marketa Marketovna </p>
+				</div>
+				<div class="bg-pr-card__text-content__row">
+					<h4>
+						Theme
+					</h4>
+					<p> Project1 </p>
+				</div>
+				<div class="bg-pr-card__text-content__row">
+					<h4>
+						Description:
+					</h4>
+					<p>
+						Lorem ipsum dolor sit ame t, consectetuer adipiscing elit. Integer vulputate sem a nibh rutrum
+						consequat. Fusce tellus. Integer vulputate sem a nibh rutrum consequat Lorem ipsum dolor sit ame
+						t, consectetuer adipiscing elit. Integer vulputate sem a nibh rutrum consequat. Fusce tellus.
+						Integer vulputate sem a nibh rutrum consequat
+						Lorem ipsum dolor sit ame t, consectetuer adipiscing elit. Integer vulputate sem a nibh rutrum
+						consequat. Fusce tellus. Integer vulputate sem a nibh rutrum consequat
+					</p>
+					<img class="arrow-down" src="../assets/icons/arrow-down.svg" />
+				</div>
+			</div>
+		</div>
+	</div>
+	<a href="add_invest.html" class="add_invest_btn">
+		+
+	</a>
+</main>
+<footer class="footer container">
+	<div class="footer__section">
+		<p class="footer_section__title"> INVESTICO </p>
+		<p class="footer_section__description">Lorem ipsum dolor sit ame t, consectetuer adipiscing elit.</p>
+		<div class="footer__section__images">
+			<a href="/">
+				<img src="../assets/icons/twitter.svg" alt="twitter" />
+			</a>
+			<a href="/">
+				<img src="../assets/icons/instagram.svg" alt="instagram" />
+			</a>
+			<a href="/">
+				<img src="../assets/icons/linkedin.svg" alt="linkedin" />
+			</a>
+		</div>
+	</div>
+	<div class="footer__section">
+		<p class="footer_section__title"> Contact </p>
+		<p class="footer_section__description">
+			tel: +732373027 </br>
+			25, Navagio Zakynthos, Greece </br>
+			info@invectico.com </br>
+		</p>
+	</div>
+</footer>
+<script type="module" src="../src/index.js"></script>
+</body>
+</html>

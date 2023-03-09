@@ -1,0 +1,37 @@
+:root {
+    --primaryBlue: #87D4FF;
+    --textColor: black;
+    --primaryGrey: #5E666C;
+    --backgroundColor: white;
+    --primaryGreen: #22C55E;
+    --deepBlue: #3B82F6;
+    --lightGrey: #64748B;
+    --black: black;
+    --white: white;
+    --archivo: 'Archivo', sans-serif;
+    --inter: 'Inter', sans-serif;
+    --primaryShawdow: 0px 10px 33px -8px rgba(130, 136, 148, 0.38);
+    --red: #fa2121
+}
+
+body.dark-theme {
+    --textColor: rgba(255, 255, 255, 0.71);
+    --backgroundColor: #0b192f;
+    --white: rgba(255, 255, 255, 0.63);
+    --primaryShawdow: 0px 10px 33px -8px rgba(80, 86, 98, 0.14);
+    --primaryGrey: #02101c;
+    --primaryBlue: #0b3150;
+    --primaryGreen: rgba(34, 197, 94, 0.87);
+}
+
+:disabled {
+    --primaryGreen: rgba(23, 129, 62, 0.29);
+    --deepBlue: rgba(59, 130, 246, 0.56);
+}
+
+.disabled {
+    --primaryGreen: rgba(23, 129, 62, 0.29);
+    --deepBlue: rgba(59, 130, 246, 0.56);
+}
+
+/*This is a CSS code that defines several global variables, such as colors and fonts, to be used throughout the website. The variables are defined in the :root selector and can be accessed by any other CSS selector. The code also defines a body class "dark-theme" which changes some of the global variables to create a dark theme for the website. The :disabled and .disabled selectors also changes some of the global variables for the disabled elements on the website.*/
